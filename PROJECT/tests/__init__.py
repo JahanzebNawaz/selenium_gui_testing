@@ -1,0 +1,11 @@
+from .test_login import TestLinkedInLogin
+from .test_user_profile import TestPersonProfile
+from .test_update_status import TestUpdateProfileStatus
+from .test_add_new_section import TestAddSectionToProfile
+from .test_add_new_experience import TestAddExperienceToProfile
+from .test_search_filter import TestSearchFilter
+from .test_check_available_jobs import TestAvailableJobs
+from .test_add_feed_post import TestAddFeedPost
+from .test_follow_others import TestFollowAccountsOrgs
+from .test_like_others_feed import TestLikeOthersFeed
+
